@@ -26,7 +26,7 @@ next, compile the binary using:
 
 After a successful compilation, you can run the executable:
 in Linux/macOS:
-> ./hash
+> ./JosephusProblem
 
 in Windows:
-> hash.exe
+> JosephusProblem.exe
